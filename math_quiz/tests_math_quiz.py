@@ -1,5 +1,5 @@
 import unittest
-from math_quiz import mainFunc, compute, mainLogic  # Adjust the module name accordingly
+from math_quiz import mainFunc, compute, mainLogic  
 
 class TestMainFunc(unittest.TestCase):
 
